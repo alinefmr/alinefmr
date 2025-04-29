@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinefmr (she/her)
 - 👀 I’m interested in M365, Power Platform, and Graph API
-- 💞️ I’m looking to collaborate on SharePoint Online and Power Automate projects
+- 💞️ I’m looking to collaborate on M365 Copilot and Copilot Studio projects
 - 📫 How to reach me: https://www.linkedin.com/in/alinetognini
 
 <!---
